@@ -27,7 +27,8 @@ AdMob: Monetizing the app with integrated advertisements.
 
 We welcome contributions from the developer community. Feel free to fork the repository, make improvements, and submit pull requests.
 
-**Happy Dev**
+**Happy Development**
+
 Dive into a world of information and stay connected with the News App – your ultimate source for staying updated, informed, and engaged.
 
-"Empowering you with the knowledge of the world, one story at a time."
+**"Empowering you with the knowledge of the world, one story at a time."**
