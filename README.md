@@ -32,3 +32,7 @@ We welcome contributions from the developer community. Feel free to fork the rep
 Dive into a world of information and stay connected with the News App – your ultimate source for staying updated, informed, and engaged.
 
 **"Empowering you with the knowledge of the world, one story at a time."**
+
+**Sample**
+
+https://github.com/KabirTheCoder21/NewsApp/assets/107906706/d4f6107b-df54-4285-b1ac-da573b8b6478
